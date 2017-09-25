@@ -1,0 +1,15 @@
+language: swift
+osx_image: xcode9
+
+branches:
+  only:
+  - master
+  - dev
+
+before_install:
+  - gem install xcpretty -N
+  - brew install swiftlint | true
+script:
+  - set -o pipefail
+  - xcodebuild -workspace TimeZonePickerExample/TimeZonePickerExample.xcworkspace -scheme TimeZonePicker -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO | xcpretty -c
+  - swiftlint

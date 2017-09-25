@@ -8,35 +8,37 @@
 
 import UIKit
 
-public protocol TimeZonePickerViewControllerDelegate {
-    
+public protocol TimeZonePickerViewControllerDelegate: class {
+
     func timeZonePickerViewControllerDidCancel(viewController: TimeZonePickerTableViewController)
-    func timeZonePickerViewController(viewController: TimeZonePickerTableViewController, didSelectTimeZone timeZone: TimeZoneLocation)
+    func timeZonePickerViewController(viewController: TimeZonePickerTableViewController,
+                                      didSelectTimeZone timeZone: TimeZoneLocation)
 }
 
 public class TimeZonePickerViewController: UINavigationController {
 
     public init(initialSearchText: String? = nil, delegate: TimeZonePickerViewControllerDelegate? = nil) throws {
-        
+
         super.init(nibName: nil, bundle: nil)
-        
-        let timeZonePicker = try TimeZonePickerTableViewController(initialSearchText: initialSearchText, delegate: delegate)
-        
+
+        let timeZonePicker = try TimeZonePickerTableViewController(initialSearchText: initialSearchText,
+                                                                   delegate: delegate)
+
         self.setViewControllers([timeZonePicker], animated: false)
     }
-    
+
     @available(*, unavailable)
     override init(nibName nibNameOrNil: String?, bundle nibBundleOrNil: Bundle?) {
-        
+
         super.init(nibName: nibNameOrNil, bundle: nibBundleOrNil)
     }
-    
+
     @available(*, unavailable)
     required public init?(coder aDecoder: NSCoder) {
-        
+
         super.init(coder: aDecoder)
     }
-    
+
     public override func viewDidLoad() {
         super.viewDidLoad()
     }
