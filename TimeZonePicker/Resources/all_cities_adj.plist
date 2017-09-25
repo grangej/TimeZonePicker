@@ -1,0 +1,3382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>latitude</key>
+		<string>0.0</string>
+		<key>longitude</key>
+		<string>0.0</string>
+		<key>timeZoneName</key>
+		<string>UTC</string>
+		<key>city</key>
+		<string>UTC</string>
+		<key>country</key>
+		<string>UTC</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>21.316668</string>
+		<key>longitude</key>
+		<string>-157.866669</string>
+		<key>timeZoneName</key>
+		<string>Pacific/Honolulu</string>
+		<key>city</key>
+		<string>Honolulu</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>61.216667</string>
+		<key>longitude</key>
+		<string>-149.883331</string>
+		<key>timeZoneName</key>
+		<string>America/Anchorage</string>
+		<key>city</key>
+		<string>Anchorage</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>34.066666</string>
+		<key>longitude</key>
+		<string>-118.250000</string>
+		<key>timeZoneName</key>
+		<string>America/Los_Angeles</string>
+		<key>city</key>
+		<string>Los Angeles</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>49.266666</string>
+		<key>longitude</key>
+		<string>-123.116653</string>
+		<key>New item - 3</key>
+		<string>3</string>
+		<key>timeZoneName</key>
+		<string>America/Vancouver</string>
+		<key>New item - 5</key>
+		<string>CA</string>
+		<key>city</key>
+		<string>Vancouver</string>
+		<key>country</key>
+		<string>Canada</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>37.799999</string>
+		<key>longitude</key>
+		<string>-122.400002</string>
+		<key>New item - 3</key>
+		<string>3</string>
+		<key>timeZoneName</key>
+		<string>US/Pacific</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>San Francisco</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>47.350002</string>
+		<key>longitude</key>
+		<string>-122.200005</string>
+		<key>New item - 3</key>
+		<string>3</string>
+		<key>timeZoneName</key>
+		<string>US/Pacific</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Seattle</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>37.349991</string>
+		<key>longitude</key>
+		<string>-121.950005</string>
+		<key>New item - 3</key>
+		<string>3</string>
+		<key>timeZoneName</key>
+		<string>US/Pacific</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Cupertino</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>32.716667</string>
+		<key>longitude</key>
+		<string>-117.149994</string>
+		<key>New item - 3</key>
+		<string>3</string>
+		<key>timeZoneName</key>
+		<string>US/Pacific</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>San Diego</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>45.549999</string>
+		<key>longitude</key>
+		<string>-122.599998</string>
+		<key>New item - 3</key>
+		<string>3</string>
+		<key>timeZoneName</key>
+		<string>US/Pacific</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Portland</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>33.299999</string>
+		<key>longitude</key>
+		<string>-112.033340</string>
+		<key>New item - 3</key>
+		<string>4</string>
+		<key>timeZoneName</key>
+		<string>America/Phoenix</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Phoenix</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>51.050003</string>
+		<key>longitude</key>
+		<string>-114.049995</string>
+		<key>New item - 3</key>
+		<string>4</string>
+		<key>timeZoneName</key>
+		<string>Canada/Mountain</string>
+		<key>New item - 5</key>
+		<string>CA</string>
+		<key>city</key>
+		<string>Calgary</string>
+		<key>country</key>
+		<string>Canada</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>40.766666</string>
+		<key>longitude</key>
+		<string>-111.883331</string>
+		<key>New item - 3</key>
+		<string>4</string>
+		<key>timeZoneName</key>
+		<string>US/Mountain</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Salt Lake City</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>39.733334</string>
+		<key>longitude</key>
+		<string>-104.983337</string>
+		<key>New item - 3</key>
+		<string>4</string>
+		<key>timeZoneName</key>
+		<string>America/Denver</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Denver</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>19.400000</string>
+		<key>longitude</key>
+		<string>-99.150002</string>
+		<key>New item - 3</key>
+		<string>5</string>
+		<key>timeZoneName</key>
+		<string>America/Mexico_City</string>
+		<key>New item - 5</key>
+		<string>MX</string>
+		<key>city</key>
+		<string>Mexico City</string>
+		<key>country</key>
+		<string>Mexico</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>41.833332</string>
+		<key>longitude</key>
+		<string>-87.750000</string>
+		<key>New item - 3</key>
+		<string>5</string>
+		<key>timeZoneName</key>
+		<string>America/Chicago</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Chicago</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>13.666666</string>
+		<key>longitude</key>
+		<string>-89.166664</string>
+		<key>New item - 3</key>
+		<string>5</string>
+		<key>timeZoneName</key>
+		<string>America/El_Salvador</string>
+		<key>New item - 5</key>
+		<string>SV</string>
+		<key>city</key>
+		<string>San Salvador</string>
+		<key>country</key>
+		<string>El Salvador</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>12.100000</string>
+		<key>longitude</key>
+		<string>-86.333336</string>
+		<key>New item - 3</key>
+		<string>5</string>
+		<key>timeZoneName</key>
+		<string>America/Managua</string>
+		<key>New item - 5</key>
+		<string>NI</string>
+		<key>city</key>
+		<string>Managua</string>
+		<key>country</key>
+		<string>Nicaragua</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>14.083333</string>
+		<key>longitude</key>
+		<string>-87.233337</string>
+		<key>New item - 3</key>
+		<string>5</string>
+		<key>timeZoneName</key>
+		<string>America/Tegucigalpa</string>
+		<key>New item - 5</key>
+		<string>HN</string>
+		<key>city</key>
+		<string>Tegucigalpa</string>
+		<key>country</key>
+		<string>Honduras</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>14.666666</string>
+		<key>longitude</key>
+		<string>-90.366669</string>
+		<key>New item - 3</key>
+		<string>5</string>
+		<key>timeZoneName</key>
+		<string>America/Guatemala</string>
+		<key>New item - 5</key>
+		<string>GT</string>
+		<key>city</key>
+		<string>Guatemala</string>
+		<key>country</key>
+		<string>Guatemala</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>49.899998</string>
+		<key>longitude</key>
+		<string>-97.149994</string>
+		<key>New item - 3</key>
+		<string>5</string>
+		<key>timeZoneName</key>
+		<string>America/Winnipeg</string>
+		<key>New item - 5</key>
+		<string>CA</string>
+		<key>city</key>
+		<string>Winnipeg</string>
+		<key>country</key>
+		<string>Canada</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>50.416666</string>
+		<key>longitude</key>
+		<string>-104.650000</string>
+		<key>New item - 3</key>
+		<string>5</string>
+		<key>timeZoneName</key>
+		<string>Canada/Saskatchewan</string>
+		<key>New item - 5</key>
+		<string>CA</string>
+		<key>city</key>
+		<string>Regina</string>
+		<key>country</key>
+		<string>Canada</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>32.783333</string>
+		<key>longitude</key>
+		<string>-96.816666</string>
+		<key>New item - 3</key>
+		<string>5</string>
+		<key>timeZoneName</key>
+		<string>US/Central</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Dallas</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>44.983334</string>
+		<key>longitude</key>
+		<string>-93.216667</string>
+		<key>New item - 3</key>
+		<string>5</string>
+		<key>timeZoneName</key>
+		<string>US/Central</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Minneapolis</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>29.7500</string>
+		<key>longitude</key>
+		<string>-95.3500</string>
+		<key>New item - 3</key>
+		<string>5</string>
+		<key>timeZoneName</key>
+		<string>US/Central</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Houston</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>9.983334</string>
+		<key>longitude</key>
+		<string>-84.066666</string>
+		<key>New item - 3</key>
+		<string>5</string>
+		<key>timeZoneName</key>
+		<string>America/Costa_Rica</string>
+		<key>New item - 5</key>
+		<string>CR</string>
+		<key>city</key>
+		<string>San Jose</string>
+		<key>country</key>
+		<string>Costa Rica</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>30.300001</string>
+		<key>longitude</key>
+		<string>-97.699997</string>
+		<key>New item - 3</key>
+		<string>5</string>
+		<key>timeZoneName</key>
+		<string>US/Central</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Austin</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>38.633335</string>
+		<key>longitude</key>
+		<string>-90.183334</string>
+		<key>New item - 3</key>
+		<string>5</string>
+		<key>timeZoneName</key>
+		<string>US/Central</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>St. Louis</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>35.050000</string>
+		<key>longitude</key>
+		<string>-90.00000</string>
+		<key>New item - 3</key>
+		<string>5</string>
+		<key>timeZoneName</key>
+		<string>US/Central</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Memphis</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>40.716667</string>
+		<key>longitude</key>
+		<string>-74.016670</string>
+		<key>New item - 3</key>
+		<string>6</string>
+		<key>timeZoneName</key>
+		<string>America/New_York</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>New York</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-12.049999</string>
+		<key>longitude</key>
+		<string>-77.050003</string>
+		<key>New item - 3</key>
+		<string>6</string>
+		<key>timeZoneName</key>
+		<string>America/Lima</string>
+		<key>New item - 5</key>
+		<string>PE</string>
+		<key>city</key>
+		<string>Lima</string>
+		<key>country</key>
+		<string>Peru</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>4.600000</string>
+		<key>longitude</key>
+		<string>-74.083328</string>
+		<key>New item - 3</key>
+		<string>6</string>
+		<key>timeZoneName</key>
+		<string>America/Bogota</string>
+		<key>New item - 5</key>
+		<string>CO</string>
+		<key>city</key>
+		<string>Bogota</string>
+		<key>country</key>
+		<string>Colombia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>43.650002</string>
+		<key>longitude</key>
+		<string>-79.333336</string>
+		<key>New item - 3</key>
+		<string>6</string>
+		<key>timeZoneName</key>
+		<string>Canada/Eastern</string>
+		<key>New item - 5</key>
+		<string>CA</string>
+		<key>city</key>
+		<string>Toronto</string>
+		<key>country</key>
+		<string>Canada</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>9.000000</string>
+		<key>longitude</key>
+		<string>-79.416672</string>
+		<key>New item - 3</key>
+		<string>6</string>
+		<key>timeZoneName</key>
+		<string>America/Panama</string>
+		<key>New item - 5</key>
+		<string>PA</string>
+		<key>city</key>
+		<string>Panama</string>
+		<key>country</key>
+		<string>Panama</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>45.500000</string>
+		<key>longitude</key>
+		<string>-73.599998</string>
+		<key>New item - 3</key>
+		<string>6</string>
+		<key>timeZoneName</key>
+		<string>America/Montreal</string>
+		<key>New item - 5</key>
+		<string>CA</string>
+		<key>city</key>
+		<string>Montreal</string>
+		<key>country</key>
+		<string>Canada</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>22.133333</string>
+		<key>longitude</key>
+		<string>-82.366669</string>
+		<key>New item - 3</key>
+		<string>6</string>
+		<key>timeZoneName</key>
+		<string>America/Havana</string>
+		<key>New item - 5</key>
+		<string>CU</string>
+		<key>city</key>
+		<string>Havana</string>
+		<key>country</key>
+		<string>Cuba</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-0.233333</string>
+		<key>longitude</key>
+		<string>-78.500000</string>
+		<key>New item - 3</key>
+		<string>6</string>
+		<key>timeZoneName</key>
+		<string>America/Guayaquil</string>
+		<key>New item - 5</key>
+		<string>EC</string>
+		<key>city</key>
+		<string>Quito</string>
+		<key>country</key>
+		<string>Ecuador</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>39.616669</string>
+		<key>longitude</key>
+		<string>-75.116669</string>
+		<key>New item - 3</key>
+		<string>6</string>
+		<key>timeZoneName</key>
+		<string>US/Eastern</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Philadelphia</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>45.416664</string>
+		<key>longitude</key>
+		<string>-75.700005</string>
+		<key>New item - 3</key>
+		<string>6</string>
+		<key>timeZoneName</key>
+		<string>Canada/Eastern</string>
+		<key>New item - 5</key>
+		<string>CA</string>
+		<key>city</key>
+		<string>Ottawa</string>
+		<key>country</key>
+		<string>Canada</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>39.733333</string>
+		<key>longitude</key>
+		<string>-86.283333</string>
+		<key>New item - 3</key>
+		<string>6</string>
+		<key>timeZoneName</key>
+		<string>America/Indianapolis</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Indianapolis</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>18.666668</string>
+		<key>longitude</key>
+		<string>-72.333336</string>
+		<key>New item - 3</key>
+		<string>6</string>
+		<key>timeZoneName</key>
+		<string>America/Port-au-Prince</string>
+		<key>New item - 5</key>
+		<string>HT</string>
+		<key>city</key>
+		<string>Port-au-Prince</string>
+		<key>country</key>
+		<string>Haiti</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>38.916656</string>
+		<key>longitude</key>
+		<string>-77.000000</string>
+		<key>New item - 3</key>
+		<string>6</string>
+		<key>timeZoneName</key>
+		<string>US/Eastern</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Washington, D.C.</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>40.00000</string>
+		<key>longitude</key>
+		<string>-82.883333</string>
+		<key>New item - 3</key>
+		<string>6</string>
+		<key>timeZoneName</key>
+		<string>US/Eastern</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Columbus</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>35.816666</string>
+		<key>longitude</key>
+		<string>-83.983333</string>
+		<key>New item - 3</key>
+		<string>6</string>
+		<key>timeZoneName</key>
+		<string>US/Eastern</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Knoxville</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>37.210489</string>
+		<key>longitude</key>
+		<string>-80.414774</string>
+		<key>New item - 3</key>
+		<string>6</string>
+		<key>timeZoneName</key>
+		<string>US/Eastern</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Blacksburg</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>42.933333</string>
+		<key>longitude</key>
+		<string>-71.433333</string>
+		<key>New item - 3</key>
+		<string>6</string>
+		<key>timeZoneName</key>
+		<string>US/Eastern</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Manchester</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>42.333336</string>
+		<key>longitude</key>
+		<string>-71.083336</string>
+		<key>New item - 3</key>
+		<string>6</string>
+		<key>timeZoneName</key>
+		<string>US/Eastern</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Boston</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>25.766668</string>
+		<key>longitude</key>
+		<string>-80.200005</string>
+		<key>New item - 3</key>
+		<string>6</string>
+		<key>timeZoneName</key>
+		<string>US/Eastern</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Miami</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>33.750000</string>
+		<key>longitude</key>
+		<string>-84.383331</string>
+		<key>New item - 3</key>
+		<string>6</string>
+		<key>timeZoneName</key>
+		<string>US/Eastern</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Atlanta</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>42.383335</string>
+		<key>longitude</key>
+		<string>-83.083336</string>
+		<key>New item - 3</key>
+		<string>6</string>
+		<key>timeZoneName</key>
+		<string>America/Detroit</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Detroit</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-33.400002</string>
+		<key>longitude</key>
+		<string>-70.666664</string>
+		<key>New item - 3</key>
+		<string>7</string>
+		<key>timeZoneName</key>
+		<string>America/Santiago</string>
+		<key>New item - 5</key>
+		<string>CL</string>
+		<key>city</key>
+		<string>Santiago</string>
+		<key>country</key>
+		<string>Chile</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>18.500000</string>
+		<key>longitude</key>
+		<string>-69.900002</string>
+		<key>New item - 3</key>
+		<string>7</string>
+		<key>timeZoneName</key>
+		<string>America/Santo_Domingo</string>
+		<key>New item - 5</key>
+		<string>DO</string>
+		<key>city</key>
+		<string>Santo Domingo</string>
+		<key>country</key>
+		<string>Dominican Republic</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>10.500000</string>
+		<key>longitude</key>
+		<string>-66.933334</string>
+		<key>New item - 3</key>
+		<string>7</string>
+		<key>timeZoneName</key>
+		<string>America/Caracas</string>
+		<key>New item - 5</key>
+		<string>VE</string>
+		<key>city</key>
+		<string>Caracas</string>
+		<key>country</key>
+		<string>Venezuela</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-16.500000</string>
+		<key>longitude</key>
+		<string>-68.150002</string>
+		<key>New item - 3</key>
+		<string>7</string>
+		<key>timeZoneName</key>
+		<string>America/La_Paz</string>
+		<key>New item - 5</key>
+		<string>BO</string>
+		<key>city</key>
+		<string>La Paz</string>
+		<key>country</key>
+		<string>Bolivia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-25.266666</string>
+		<key>longitude</key>
+		<string>-57.666668</string>
+		<key>New item - 3</key>
+		<string>7</string>
+		<key>timeZoneName</key>
+		<string>America/Asuncion</string>
+		<key>New item - 5</key>
+		<string>PY</string>
+		<key>city</key>
+		<string>Asuncion</string>
+		<key>country</key>
+		<string>Paraguay</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>18.466666</string>
+		<key>longitude</key>
+		<string>-66.100000</string>
+		<key>New item - 3</key>
+		<string>7</string>
+		<key>timeZoneName</key>
+		<string>America/Puerto_Rico</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>San Juan</string>
+		<key>country</key>
+		<string>Puerto Rico</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>44.650000</string>
+		<key>longitude</key>
+		<string>-63.566666</string>
+		<key>New item - 3</key>
+		<string>7</string>
+		<key>timeZoneName</key>
+		<string>Canada/Atlantic</string>
+		<key>New item - 5</key>
+		<string>CA</string>
+		<key>city</key>
+		<string>Halifax</string>
+		<key>country</key>
+		<string>Canada</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>6.766667</string>
+		<key>longitude</key>
+		<string>-58.166668</string>
+		<key>New item - 3</key>
+		<string>7</string>
+		<key>timeZoneName</key>
+		<string>America/Guyana</string>
+		<key>New item - 5</key>
+		<string>GY</string>
+		<key>city</key>
+		<string>Georgetown</string>
+		<key>country</key>
+		<string>Guyana</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>47.566666</string>
+		<key>longitude</key>
+		<string>-52.716666</string>
+		<key>New item - 3</key>
+		<string>7</string>
+		<key>timeZoneName</key>
+		<string>Canada/Newfoundland</string>
+		<key>New item - 5</key>
+		<string>CA</string>
+		<key>city</key>
+		<string>St. John&apos;s</string>
+		<key>country</key>
+		<string>Canada</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>13.1000</string>
+		<key>longitude</key>
+		<string>-59.6167</string>
+		<key>New item - 3</key>
+		<string>7</string>
+		<key>timeZoneName</key>
+		<string>America/Barbados</string>
+		<key>New item - 5</key>
+		<string>BB</string>
+		<key>city</key>
+		<string>Bridgetown</string>
+		<key>country</key>
+		<string>Barbados</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-22.883331</string>
+		<key>longitude</key>
+		<string>-43.283325</string>
+		<key>New item - 3</key>
+		<string>8</string>
+		<key>timeZoneName</key>
+		<string>Brazil/East</string>
+		<key>New item - 5</key>
+		<string>BR</string>
+		<key>city</key>
+		<string>Rio de Janeiro</string>
+		<key>country</key>
+		<string>Brazil</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-34.616653</string>
+		<key>longitude</key>
+		<string>-58.399994</string>
+		<key>New item - 3</key>
+		<string>8</string>
+		<key>timeZoneName</key>
+		<string>America/Buenos_Aires</string>
+		<key>New item - 5</key>
+		<string>AR</string>
+		<key>city</key>
+		<string>Buenos Aires</string>
+		<key>country</key>
+		<string>Argentina</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-23.549999</string>
+		<key>longitude</key>
+		<string>-46.649998</string>
+		<key>New item - 3</key>
+		<string>8</string>
+		<key>timeZoneName</key>
+		<string>America/Sao_Paulo</string>
+		<key>New item - 5</key>
+		<string>BR</string>
+		<key>city</key>
+		<string>Sao Paulo</string>
+		<key>country</key>
+		<string>Brazil</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-15.783333</string>
+		<key>longitude</key>
+		<string>-47.916668</string>
+		<key>New item - 3</key>
+		<string>8</string>
+		<key>timeZoneName</key>
+		<string>Brazil/East</string>
+		<key>New item - 5</key>
+		<string>BR</string>
+		<key>city</key>
+		<string>Brasalia</string>
+		<key>country</key>
+		<string>Brazil</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-8.000000</string>
+		<key>longitude</key>
+		<string>-35.000000</string>
+		<key>New item - 3</key>
+		<string>8</string>
+		<key>timeZoneName</key>
+		<string>America/Recife</string>
+		<key>New item - 5</key>
+		<string>BR</string>
+		<key>city</key>
+		<string>Recife</string>
+		<key>country</key>
+		<string>Brazil</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-34.916668</string>
+		<key>longitude</key>
+		<string>-56.166668</string>
+		<key>New item - 3</key>
+		<string>8</string>
+		<key>timeZoneName</key>
+		<string>America/Montevideo</string>
+		<key>New item - 5</key>
+		<string>UY</string>
+		<key>city</key>
+		<string>Montevideo</string>
+		<key>country</key>
+		<string>Uruguay</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>5.866667</string>
+		<key>longitude</key>
+		<string>-55.166668</string>
+		<key>New item - 3</key>
+		<string>8</string>
+		<key>timeZoneName</key>
+		<string>America/Paramaribo</string>
+		<key>New item - 5</key>
+		<string>SR</string>
+		<key>city</key>
+		<string>Paramaribo</string>
+		<key>country</key>
+		<string>Surinam</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>4.916667</string>
+		<key>longitude</key>
+		<string>-52.300003</string>
+		<key>New item - 3</key>
+		<string>8</string>
+		<key>timeZoneName</key>
+		<string>America/Cayenne</string>
+		<key>New item - 5</key>
+		<string>GF</string>
+		<key>city</key>
+		<string>Cayenne</string>
+		<key>country</key>
+		<string>French Guiana</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>64.250000</string>
+		<key>longitude</key>
+		<string>-51.666668</string>
+		<key>New item - 3</key>
+		<string>8</string>
+		<key>timeZoneName</key>
+		<string>America/Godthab</string>
+		<key>New item - 5</key>
+		<string>GL</string>
+		<key>city</key>
+		<string>Nuuk</string>
+		<key>country</key>
+		<string>Greenland</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-54.266666</string>
+		<key>longitude</key>
+		<string>-36.533333</string>
+		<key>New item - 3</key>
+		<string>9</string>
+		<key>timeZoneName</key>
+		<string>Atlantic/South_Georgia</string>
+		<key>New item - 5</key>
+		<string>GS</string>
+		<key>city</key>
+		<string>Grytviken</string>
+		<key>country</key>
+		<string>South Georgia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>37.733333</string>
+		<key>longitude</key>
+		<string>-25.666666</string>
+		<key>New item - 3</key>
+		<string>10</string>
+		<key>timeZoneName</key>
+		<string>Atlantic/Azores</string>
+		<key>New item - 5</key>
+		<string>PT</string>
+		<key>city</key>
+		<string>Ponta Delgada</string>
+		<key>country</key>
+		<string>Portugal</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>51.500000</string>
+		<key>longitude</key>
+		<string>-0.166656</string>
+		<key>New item - 3</key>
+		<string>11</string>
+		<key>timeZoneName</key>
+		<string>Europe/London</string>
+		<key>New item - 5</key>
+		<string>GB</string>
+		<key>city</key>
+		<string>London</string>
+		<key>country</key>
+		<string>England</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>14.566667</string>
+		<key>longitude</key>
+		<string>-17.483334</string>
+		<key>New item - 3</key>
+		<string>11</string>
+		<key>timeZoneName</key>
+		<string>Africa/Dakar</string>
+		<key>New item - 5</key>
+		<string>SN</string>
+		<key>city</key>
+		<string>Dakar</string>
+		<key>country</key>
+		<string>Senegal</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>5.583333</string>
+		<key>longitude</key>
+		<string>-0.100000</string>
+		<key>New item - 3</key>
+		<string>11</string>
+		<key>timeZoneName</key>
+		<string>Africa/Accra</string>
+		<key>New item - 5</key>
+		<string>GH</string>
+		<key>city</key>
+		<string>Accra</string>
+		<key>country</key>
+		<string>Ghana</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>9.483334</string>
+		<key>longitude</key>
+		<string>-13.816667</string>
+		<key>New item - 3</key>
+		<string>11</string>
+		<key>timeZoneName</key>
+		<string>Africa/Conakry</string>
+		<key>New item - 5</key>
+		<string>GN</string>
+		<key>city</key>
+		<string>Conakry</string>
+		<key>country</key>
+		<string>Guinea</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>12.416667</string>
+		<key>longitude</key>
+		<string>-1.500000</string>
+		<key>New item - 3</key>
+		<string>11</string>
+		<key>timeZoneName</key>
+		<string>Africa/Ouagadougou</string>
+		<key>New item - 5</key>
+		<string>HV</string>
+		<key>city</key>
+		<string>Ougadougou</string>
+		<key>country</key>
+		<string>Burkina Faso</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>53.333332</string>
+		<key>longitude</key>
+		<string>-6.250000</string>
+		<key>New item - 3</key>
+		<string>11</string>
+		<key>timeZoneName</key>
+		<string>Europe/Dublin</string>
+		<key>New item - 5</key>
+		<string>IE</string>
+		<key>city</key>
+		<string>Dublin</string>
+		<key>country</key>
+		<string>Ireland</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>12.566667</string>
+		<key>longitude</key>
+		<string>-7.916667</string>
+		<key>New item - 3</key>
+		<string>11</string>
+		<key>timeZoneName</key>
+		<string>Africa/Bamako</string>
+		<key>New item - 5</key>
+		<string>ML</string>
+		<key>city</key>
+		<string>Bamako</string>
+		<key>country</key>
+		<string>Mali</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>6.300000</string>
+		<key>longitude</key>
+		<string>-10.783333</string>
+		<key>New item - 3</key>
+		<string>11</string>
+		<key>timeZoneName</key>
+		<string>Africa/Monrovia</string>
+		<key>New item - 5</key>
+		<string>LR</string>
+		<key>city</key>
+		<string>Monrovia</string>
+		<key>country</key>
+		<string>Liberia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>8.500000</string>
+		<key>longitude</key>
+		<string>-13.283333</string>
+		<key>New item - 3</key>
+		<string>11</string>
+		<key>timeZoneName</key>
+		<string>Africa/Freetown</string>
+		<key>New item - 5</key>
+		<string>SL</string>
+		<key>city</key>
+		<string>Freetown</string>
+		<key>country</key>
+		<string>Sierra Leone</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>18.150000</string>
+		<key>longitude</key>
+		<string>-15.966667</string>
+		<key>New item - 3</key>
+		<string>11</string>
+		<key>timeZoneName</key>
+		<string>Africa/Nouakchott</string>
+		<key>New item - 5</key>
+		<string>MR</string>
+		<key>city</key>
+		<string>Nouakchott</string>
+		<key>country</key>
+		<string>Mauritania</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>34.033333</string>
+		<key>longitude</key>
+		<string>-6.850000</string>
+		<key>New item - 3</key>
+		<string>11</string>
+		<key>timeZoneName</key>
+		<string>Africa/Casablanca</string>
+		<key>New item - 5</key>
+		<string>MA</string>
+		<key>city</key>
+		<string>Rabat</string>
+		<key>country</key>
+		<string>Morocco</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>51.966667</string>
+		<key>longitude</key>
+		<string>-8.466666</string>
+		<key>New item - 3</key>
+		<string>11</string>
+		<key>timeZoneName</key>
+		<string>Europe/Dublin</string>
+		<key>New item - 5</key>
+		<string>IE</string>
+		<key>city</key>
+		<string>Cork</string>
+		<key>country</key>
+		<string>Ireland</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>38.733322</string>
+		<key>longitude</key>
+		<string>-9.133331</string>
+		<key>New item - 3</key>
+		<string>11</string>
+		<key>timeZoneName</key>
+		<string>Europe/Lisbon</string>
+		<key>New item - 5</key>
+		<string>PT</string>
+		<key>city</key>
+		<string>Lisbon</string>
+		<key>country</key>
+		<string>Portugal</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>55.950001</string>
+		<key>longitude</key>
+		<string>-3.216667</string>
+		<key>New item - 3</key>
+		<string>11</string>
+		<key>timeZoneName</key>
+		<string>Europe/London</string>
+		<key>New item - 5</key>
+		<string>GB</string>
+		<key>city</key>
+		<string>Edinburgh</string>
+		<key>country</key>
+		<string>Scotland</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>51.500000</string>
+		<key>longitude</key>
+		<string>-3.216667</string>
+		<key>New item - 3</key>
+		<string>11</string>
+		<key>timeZoneName</key>
+		<string>Europe/London</string>
+		<key>New item - 5</key>
+		<string>GB</string>
+		<key>city</key>
+		<string>Cardiff</string>
+		<key>country</key>
+		<string>Wales</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>64.150002</string>
+		<key>longitude</key>
+		<string>-21.949999</string>
+		<key>New item - 3</key>
+		<string>11</string>
+		<key>timeZoneName</key>
+		<string>Atlantic/Reykjavik</string>
+		<key>New item - 5</key>
+		<string>IS</string>
+		<key>city</key>
+		<string>Reykjavik</string>
+		<key>country</key>
+		<string>Iceland</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>6.450000</string>
+		<key>longitude</key>
+		<string>3.383333</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Africa/Lagos</string>
+		<key>New item - 5</key>
+		<string>NG</string>
+		<key>city</key>
+		<string>Lagos</string>
+		<key>country</key>
+		<string>Nigeria</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-4.333333</string>
+		<key>longitude</key>
+		<string>15.250000</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Africa/Kinshasa</string>
+		<key>New item - 5</key>
+		<string>ZR</string>
+		<key>city</key>
+		<string>Kinshasa</string>
+		<key>country</key>
+		<string>Zaire</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>40.416656</string>
+		<key>longitude</key>
+		<string>-3.716660</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Europe/Madrid</string>
+		<key>New item - 5</key>
+		<string>ES</string>
+		<key>city</key>
+		<string>Madrid</string>
+		<key>country</key>
+		<string>Spain</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>52.516666</string>
+		<key>longitude</key>
+		<string>13.400000</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Europe/Berlin</string>
+		<key>New item - 5</key>
+		<string>DE</string>
+		<key>city</key>
+		<string>Berlin</string>
+		<key>country</key>
+		<string>Germany</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-8.833334</string>
+		<key>longitude</key>
+		<string>13.250000</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Africa/Luanda</string>
+		<key>New item - 5</key>
+		<string>AO</string>
+		<key>city</key>
+		<string>Luanda</string>
+		<key>country</key>
+		<string>Angola</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>41.883331</string>
+		<key>longitude</key>
+		<string>12.500001</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Europe/Rome</string>
+		<key>New item - 5</key>
+		<string>IT</string>
+		<key>city</key>
+		<string>Rome</string>
+		<key>country</key>
+		<string>Italy</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>48.866650</string>
+		<key>longitude</key>
+		<string>2.333328</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Europe/Paris</string>
+		<key>New item - 5</key>
+		<string>FR</string>
+		<key>city</key>
+		<string>Paris</string>
+		<key>country</key>
+		<string>France</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>36.833332</string>
+		<key>longitude</key>
+		<string>3.000000</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Africa/Algiers</string>
+		<key>New item - 5</key>
+		<string>DZ</string>
+		<key>city</key>
+		<string>Algiers</string>
+		<key>country</key>
+		<string>Algeria</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>4.000000</string>
+		<key>longitude</key>
+		<string>9.750000</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Africa/Douala</string>
+		<key>New item - 5</key>
+		<string>CM</string>
+		<key>city</key>
+		<string>Douala</string>
+		<key>country</key>
+		<string>Cameroon</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>59.333328</string>
+		<key>longitude</key>
+		<string>18.049988</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Europe/Stockholm</string>
+		<key>New item - 5</key>
+		<string>SE</string>
+		<key>city</key>
+		<string>Stockholm</string>
+		<key>country</key>
+		<string>Sweden</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>53.5833</string>
+		<key>longitude</key>
+		<string>10.0000</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Europe/Berlin</string>
+		<key>New item - 5</key>
+		<string>DE</string>
+		<key>city</key>
+		<string>Hamburg</string>
+		<key>country</key>
+		<string>Germany</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>48.216667</string>
+		<key>longitude</key>
+		<string>16.366667</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Europe/Vienna</string>
+		<key>New item - 5</key>
+		<string>AT</string>
+		<key>city</key>
+		<string>Vienna</string>
+		<key>country</key>
+		<string>Austria</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>47.500000</string>
+		<key>longitude</key>
+		<string>19.083334</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Europe/Budapest</string>
+		<key>New item - 5</key>
+		<string>HU</string>
+		<key>city</key>
+		<string>Budapest</string>
+		<key>country</key>
+		<string>Hungary</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>52.250000</string>
+		<key>longitude</key>
+		<string>21.000000</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Europe/Warsaw</string>
+		<key>New item - 5</key>
+		<string>PL</string>
+		<key>city</key>
+		<string>Warsaw</string>
+		<key>country</key>
+		<string>Poland</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>48.133335</string>
+		<key>longitude</key>
+		<string>11.566667</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Europe/Berlin</string>
+		<key>New item - 5</key>
+		<string>DE</string>
+		<key>city</key>
+		<string>Munich</string>
+		<key>country</key>
+		<string>Germany</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>47.383335</string>
+		<key>longitude</key>
+		<string>8.550000</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Europe/Zurich</string>
+		<key>New item - 5</key>
+		<string>CH</string>
+		<key>city</key>
+		<string>Zurich</string>
+		<key>country</key>
+		<string>Switzerland</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>32.883331</string>
+		<key>longitude</key>
+		<string>13.200000</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Africa/Tripoli</string>
+		<key>New item - 5</key>
+		<string>LY</string>
+		<key>city</key>
+		<string>Tripoli</string>
+		<key>country</key>
+		<string>Libya</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>50.083332</string>
+		<key>longitude</key>
+		<string>14.433332</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Europe/Prague</string>
+		<key>New item - 5</key>
+		<string>CZ</string>
+		<key>city</key>
+		<string>Prague</string>
+		<key>country</key>
+		<string>Czech Republic</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>44.833332</string>
+		<key>longitude</key>
+		<string>20.500000</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Europe/Belgrade</string>
+		<key>New item - 5</key>
+		<string>YU</string>
+		<key>city</key>
+		<string>Belgrade</string>
+		<key>country</key>
+		<string>Serbia and Montenegro</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>50.833332</string>
+		<key>longitude</key>
+		<string>4.350000</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Europe/Brussels</string>
+		<key>New item - 5</key>
+		<string>BE</string>
+		<key>city</key>
+		<string>Brussels</string>
+		<key>country</key>
+		<string>Belgium</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>36.799999</string>
+		<key>longitude</key>
+		<string>10.183333</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Africa/Tunis</string>
+		<key>New item - 5</key>
+		<string>TN</string>
+		<key>city</key>
+		<string>Tunis</string>
+		<key>country</key>
+		<string>Tunisia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>12.166666</string>
+		<key>longitude</key>
+		<string>14.983334</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Africa/Ndjamena</string>
+		<key>New item - 5</key>
+		<string>TD</string>
+		<key>city</key>
+		<string>Ndjamena</string>
+		<key>country</key>
+		<string>Chad</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>52.349995</string>
+		<key>longitude</key>
+		<string>4.899994</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Europe/Amsterdam</string>
+		<key>New item - 5</key>
+		<string>NL</string>
+		<key>city</key>
+		<string>Amsterdam</string>
+		<key>country</key>
+		<string>Netherlands</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>4.383333</string>
+		<key>longitude</key>
+		<string>18.583334</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Africa/Bangui</string>
+		<key>New item - 5</key>
+		<string>CF</string>
+		<key>city</key>
+		<string>Bangui</string>
+		<key>country</key>
+		<string>Central African Republic</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>59.933334</string>
+		<key>longitude</key>
+		<string>10.750000</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Europe/Oslo</string>
+		<key>New item - 5</key>
+		<string>NO</string>
+		<key>city</key>
+		<string>Oslo</string>
+		<key>country</key>
+		<string>Norway</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>55.716663</string>
+		<key>longitude</key>
+		<string>12.566667</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Europe/Copenhagen</string>
+		<key>New item - 5</key>
+		<string>DK</string>
+		<key>city</key>
+		<string>Copenhagen</string>
+		<key>country</key>
+		<string>Denmark</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>46.166664</string>
+		<key>longitude</key>
+		<string>6.150000</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Europe/Zurich</string>
+		<key>New item - 5</key>
+		<string>CH</string>
+		<key>city</key>
+		<string>Geneva</string>
+		<key>country</key>
+		<string>Switzerland</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>48.1667</string>
+		<key>longitude</key>
+		<string>17.1667</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Europe/Bratislava</string>
+		<key>New item - 5</key>
+		<string>SK</string>
+		<key>city</key>
+		<string>Bratislava</string>
+		<key>country</key>
+		<string>Slovakia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>45.740600</string>
+		<key>longitude</key>
+		<string>16.068300</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Europe/Zagreb</string>
+		<key>New item - 5</key>
+		<string>HR</string>
+		<key>city</key>
+		<string>Zagreb</string>
+		<key>country</key>
+		<string>Croatia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>46.0558</string>
+		<key>longitude</key>
+		<string>14.5083</string>
+		<key>New item - 3</key>
+		<string>12</string>
+		<key>timeZoneName</key>
+		<string>Europe/Ljubljana</string>
+		<key>New item - 5</key>
+		<string>SI</string>
+		<key>city</key>
+		<string>Ljubljana</string>
+		<key>country</key>
+		<string>Slovenia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>41.033333</string>
+		<key>longitude</key>
+		<string>28.983334</string>
+		<key>New item - 3</key>
+		<string>13</string>
+		<key>timeZoneName</key>
+		<string>Europe/Istanbul</string>
+		<key>New item - 5</key>
+		<string>TR</string>
+		<key>city</key>
+		<string>Istanbul</string>
+		<key>country</key>
+		<string>Turkey</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>30.049999</string>
+		<key>longitude</key>
+		<string>31.249998</string>
+		<key>New item - 3</key>
+		<string>13</string>
+		<key>timeZoneName</key>
+		<string>Africa/Cairo</string>
+		<key>New item - 5</key>
+		<string>EG</string>
+		<key>city</key>
+		<string>Cairo</string>
+		<key>country</key>
+		<string>Egypt</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>39.916668</string>
+		<key>longitude</key>
+		<string>32.833332</string>
+		<key>New item - 3</key>
+		<string>13</string>
+		<key>timeZoneName</key>
+		<string>Europe/Istanbul</string>
+		<key>New item - 5</key>
+		<string>TR</string>
+		<key>city</key>
+		<string>Ankara</string>
+		<key>country</key>
+		<string>Turkey</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-33.933334</string>
+		<key>longitude</key>
+		<string>18.366667</string>
+		<key>New item - 3</key>
+		<string>13</string>
+		<key>timeZoneName</key>
+		<string>Africa/Johannesburg</string>
+		<key>New item - 5</key>
+		<string>ZA</string>
+		<key>city</key>
+		<string>Cape Town</string>
+		<key>country</key>
+		<string>South Africa</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>15.599999</string>
+		<key>longitude</key>
+		<string>32.533333</string>
+		<key>New item - 3</key>
+		<string>13</string>
+		<key>timeZoneName</key>
+		<string>Africa/Khartoum</string>
+		<key>New item - 5</key>
+		<string>SD</string>
+		<key>city</key>
+		<string>Khartoum</string>
+		<key>country</key>
+		<string>Sudan</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>50.500000</string>
+		<key>longitude</key>
+		<string>30.466667</string>
+		<key>New item - 3</key>
+		<string>13</string>
+		<key>timeZoneName</key>
+		<string>Europe/Kiev</string>
+		<key>New item - 5</key>
+		<string>UA</string>
+		<key>city</key>
+		<string>Kiev</string>
+		<key>country</key>
+		<string>Ukraine</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>33.866665</string>
+		<key>longitude</key>
+		<string>35.500000</string>
+		<key>New item - 3</key>
+		<string>13</string>
+		<key>timeZoneName</key>
+		<string>Asia/Beirut</string>
+		<key>New item - 5</key>
+		<string>LB</string>
+		<key>city</key>
+		<string>Beirut</string>
+		<key>country</key>
+		<string>Lebanon</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>44.450001</string>
+		<key>longitude</key>
+		<string>26.166666</string>
+		<key>New item - 3</key>
+		<string>13</string>
+		<key>timeZoneName</key>
+		<string>Europe/Bucharest</string>
+		<key>New item - 5</key>
+		<string>RO</string>
+		<key>city</key>
+		<string>Bucharest</string>
+		<key>country</key>
+		<string>Romania</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-15.466667</string>
+		<key>longitude</key>
+		<string>28.266666</string>
+		<key>New item - 3</key>
+		<string>13</string>
+		<key>timeZoneName</key>
+		<string>Africa/Lusaka</string>
+		<key>New item - 5</key>
+		<string>ZM</string>
+		<key>city</key>
+		<string>Lusaka</string>
+		<key>country</key>
+		<string>Zambia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-17.716667</string>
+		<key>longitude</key>
+		<string>31.033333</string>
+		<key>New item - 3</key>
+		<string>13</string>
+		<key>timeZoneName</key>
+		<string>Africa/Harare</string>
+		<key>New item - 5</key>
+		<string>ZW</string>
+		<key>city</key>
+		<string>Harare</string>
+		<key>country</key>
+		<string>Zimbabwe</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>31.949999</string>
+		<key>longitude</key>
+		<string>35.933334</string>
+		<key>New item - 3</key>
+		<string>13</string>
+		<key>timeZoneName</key>
+		<string>Asia/Amman</string>
+		<key>New item - 5</key>
+		<string>JO</string>
+		<key>city</key>
+		<string>Amman</string>
+		<key>country</key>
+		<string>Jordan</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>42.750000</string>
+		<key>longitude</key>
+		<string>23.333332</string>
+		<key>New item - 3</key>
+		<string>13</string>
+		<key>timeZoneName</key>
+		<string>Europe/Sofia</string>
+		<key>New item - 5</key>
+		<string>BG</string>
+		<key>city</key>
+		<string>Sofia</string>
+		<key>country</key>
+		<string>Bulgaria</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-25.966667</string>
+		<key>longitude</key>
+		<string>32.533333</string>
+		<key>New item - 3</key>
+		<string>13</string>
+		<key>timeZoneName</key>
+		<string>Africa/Maputo</string>
+		<key>New item - 5</key>
+		<string>MZ</string>
+		<key>city</key>
+		<string>Maputo</string>
+		<key>country</key>
+		<string>Mozambique</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>31.783335</string>
+		<key>longitude</key>
+		<string>35.233334</string>
+		<key>New item - 3</key>
+		<string>13</string>
+		<key>timeZoneName</key>
+		<string>Asia/Jerusalem</string>
+		<key>New item - 5</key>
+		<string>IL</string>
+		<key>city</key>
+		<string>Jerusalem</string>
+		<key>country</key>
+		<string>Israel</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>38.000000</string>
+		<key>longitude</key>
+		<string>23.733334</string>
+		<key>New item - 3</key>
+		<string>13</string>
+		<key>timeZoneName</key>
+		<string>Europe/Athens</string>
+		<key>New item - 5</key>
+		<string>GR</string>
+		<key>city</key>
+		<string>Athens</string>
+		<key>country</key>
+		<string>Greece</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>60.166668</string>
+		<key>longitude</key>
+		<string>24.966667</string>
+		<key>New item - 3</key>
+		<string>13</string>
+		<key>timeZoneName</key>
+		<string>Europe/Helsinki</string>
+		<key>New item - 5</key>
+		<string>FI</string>
+		<key>city</key>
+		<string>Helsinki</string>
+		<key>country</key>
+		<string>Finland</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>55.750000</string>
+		<key>longitude</key>
+		<string>37.583332</string>
+		<key>New item - 3</key>
+		<string>14</string>
+		<key>timeZoneName</key>
+		<string>Europe/Moscow</string>
+		<key>New item - 5</key>
+		<string>RU</string>
+		<key>city</key>
+		<string>Moscow</string>
+		<key>country</key>
+		<string>Russia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>33.333332</string>
+		<key>longitude</key>
+		<string>44.433331</string>
+		<key>New item - 3</key>
+		<string>14</string>
+		<key>timeZoneName</key>
+		<string>Asia/Baghdad</string>
+		<key>New item - 5</key>
+		<string>IQ</string>
+		<key>city</key>
+		<string>Baghdad</string>
+		<key>country</key>
+		<string>Iraq</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-18.916666</string>
+		<key>longitude</key>
+		<string>47.516670</string>
+		<key>New item - 3</key>
+		<string>14</string>
+		<key>timeZoneName</key>
+		<string>Indian/Antananarivo</string>
+		<key>New item - 5</key>
+		<string>MG</string>
+		<key>city</key>
+		<string>Antananarivo</string>
+		<key>country</key>
+		<string>Madagascar</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>24.650000</string>
+		<key>longitude</key>
+		<string>46.716667</string>
+		<key>New item - 3</key>
+		<string>14</string>
+		<key>timeZoneName</key>
+		<string>Asia/Riyadh</string>
+		<key>New item - 5</key>
+		<string>SA</string>
+		<key>city</key>
+		<string>Riyadh</string>
+		<key>country</key>
+		<string>Saudi Arabia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>59.916664</string>
+		<key>longitude</key>
+		<string>30.249998</string>
+		<key>New item - 3</key>
+		<string>14</string>
+		<key>timeZoneName</key>
+		<string>Europe/Moscow</string>
+		<key>New item - 5</key>
+		<string>RU</string>
+		<key>city</key>
+		<string>St. Petersburg</string>
+		<key>country</key>
+		<string>Russia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>9.050000</string>
+		<key>longitude</key>
+		<string>38.700001</string>
+		<key>New item - 3</key>
+		<string>14</string>
+		<key>timeZoneName</key>
+		<string>Africa/Addis_Ababa</string>
+		<key>New item - 5</key>
+		<string>ET</string>
+		<key>city</key>
+		<string>Addis Ababa</string>
+		<key>country</key>
+		<string>Ethiopia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-1.283333</string>
+		<key>longitude</key>
+		<string>36.833332</string>
+		<key>New item - 3</key>
+		<string>14</string>
+		<key>timeZoneName</key>
+		<string>Africa/Nairobi</string>
+		<key>New item - 5</key>
+		<string>KE</string>
+		<key>city</key>
+		<string>Nairobi</string>
+		<key>country</key>
+		<string>Kenya</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-6.833333</string>
+		<key>longitude</key>
+		<string>39.200001</string>
+		<key>New item - 3</key>
+		<string>14</string>
+		<key>timeZoneName</key>
+		<string>Africa/Dar_es_Salaam</string>
+		<key>New item - 5</key>
+		<string>TZ</string>
+		<key>city</key>
+		<string>Dar es Salaam</string>
+		<key>country</key>
+		<string>Tanzania</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>48.450001</string>
+		<key>longitude</key>
+		<string>44.299999</string>
+		<key>New item - 3</key>
+		<string>14</string>
+		<key>timeZoneName</key>
+		<string>Europe/Moscow</string>
+		<key>New item - 5</key>
+		<string>RU</string>
+		<key>city</key>
+		<string>Volgograd</string>
+		<key>country</key>
+		<string>Russia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>15.450000</string>
+		<key>longitude</key>
+		<string>44.200001</string>
+		<key>New item - 3</key>
+		<string>14</string>
+		<key>timeZoneName</key>
+		<string>Asia/Aden</string>
+		<key>New item - 5</key>
+		<string>YD</string>
+		<key>city</key>
+		<string>Sanaa</string>
+		<key>country</key>
+		<string>Yemen</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>2.033333</string>
+		<key>longitude</key>
+		<string>45.350002</string>
+		<key>New item - 3</key>
+		<string>14</string>
+		<key>timeZoneName</key>
+		<string>Africa/Mogadishu</string>
+		<key>New item - 5</key>
+		<string>SO</string>
+		<key>city</key>
+		<string>Mogadisho</string>
+		<key>country</key>
+		<string>Somalia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>33.500000</string>
+		<key>longitude</key>
+		<string>36.250000</string>
+		<key>New item - 3</key>
+		<string>14</string>
+		<key>timeZoneName</key>
+		<string>Asia/Damascus</string>
+		<key>New item - 5</key>
+		<string>SY</string>
+		<key>city</key>
+		<string>Damascus</string>
+		<key>country</key>
+		<string>Syria</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>0.333333</string>
+		<key>longitude</key>
+		<string>32.500000</string>
+		<key>New item - 3</key>
+		<string>14</string>
+		<key>timeZoneName</key>
+		<string>Africa/Kampala</string>
+		<key>New item - 5</key>
+		<string>UG</string>
+		<key>city</key>
+		<string>Kampala</string>
+		<key>country</key>
+		<string>Uganda</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>21.449999</string>
+		<key>longitude</key>
+		<string>39.816666</string>
+		<key>New item - 3</key>
+		<string>14</string>
+		<key>timeZoneName</key>
+		<string>Asia/Riyadh</string>
+		<key>New item - 5</key>
+		<string>SA</string>
+		<key>city</key>
+		<string>Mecca</string>
+		<key>country</key>
+		<string>Saudi Arabia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>15.333333</string>
+		<key>longitude</key>
+		<string>38.883333</string>
+		<key>New item - 3</key>
+		<string>14</string>
+		<key>timeZoneName</key>
+		<string>Africa/Asmera</string>
+		<key>New item - 5</key>
+		<string>ER</string>
+		<key>city</key>
+		<string>Asmera</string>
+		<key>country</key>
+		<string>Eritrea</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>11.500001</string>
+		<key>longitude</key>
+		<string>43.083332</string>
+		<key>New item - 3</key>
+		<string>14</string>
+		<key>timeZoneName</key>
+		<string>Africa/Djibouti</string>
+		<key>New item - 5</key>
+		<string>DJ</string>
+		<key>city</key>
+		<string>Djibouti</string>
+		<key>country</key>
+		<string>Djibouti</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>29.333332</string>
+		<key>longitude</key>
+		<string>48.000004</string>
+		<key>New item - 3</key>
+		<string>14</string>
+		<key>timeZoneName</key>
+		<string>Asia/Kuwait</string>
+		<key>New item - 5</key>
+		<string>KW</string>
+		<key>city</key>
+		<string>Kuwait</string>
+		<key>country</key>
+		<string>Kuwait</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>25.283333</string>
+		<key>longitude</key>
+		<string>51.533337</string>
+		<key>New item - 3</key>
+		<string>14</string>
+		<key>timeZoneName</key>
+		<string>Asia/Qatar</string>
+		<key>New item - 5</key>
+		<string>QA</string>
+		<key>city</key>
+		<string>Doha</string>
+		<key>country</key>
+		<string>Qatar</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>26.200001</string>
+		<key>longitude</key>
+		<string>50.583336</string>
+		<key>New item - 3</key>
+		<string>14</string>
+		<key>timeZoneName</key>
+		<string>Asia/Bahrain</string>
+		<key>New item - 5</key>
+		<string>BH</string>
+		<key>city</key>
+		<string>Manama</string>
+		<key>country</key>
+		<string>Bahrain</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>35.666668</string>
+		<key>longitude</key>
+		<string>51.433331</string>
+		<key>New item - 3</key>
+		<string>15</string>
+		<key>timeZoneName</key>
+		<string>Asia/Tehran</string>
+		<key>New item - 5</key>
+		<string>IR</string>
+		<key>city</key>
+		<string>Tehran</string>
+		<key>country</key>
+		<string>Iran</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>40.1667</string>
+		<key>longitude</key>
+		<string>44.5167</string>
+		<key>New item - 3</key>
+		<string>15</string>
+		<key>timeZoneName</key>
+		<string>Asia/Yerevan</string>
+		<key>New item - 5</key>
+		<string>AM</string>
+		<key>city</key>
+		<string>Yerevan</string>
+		<key>country</key>
+		<string>Armenia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>40.3667</string>
+		<key>longitude</key>
+		<string>49.8833</string>
+		<key>New item - 3</key>
+		<string>15</string>
+		<key>timeZoneName</key>
+		<string>Asia/Baku</string>
+		<key>New item - 5</key>
+		<string>AZ</string>
+		<key>city</key>
+		<string>Baku</string>
+		<key>country</key>
+		<string>Azerbaijan</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>24.466665</string>
+		<key>longitude</key>
+		<string>54.416668</string>
+		<key>New item - 3</key>
+		<string>16</string>
+		<key>timeZoneName</key>
+		<string>Asia/Dubai</string>
+		<key>New item - 5</key>
+		<string>AE</string>
+		<key>city</key>
+		<string>Abu Dhabi</string>
+		<key>country</key>
+		<string>U.A.E.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>23.483334</string>
+		<key>longitude</key>
+		<string>58.549999</string>
+		<key>New item - 3</key>
+		<string>16</string>
+		<key>timeZoneName</key>
+		<string>Asia/Muscat</string>
+		<key>New item - 5</key>
+		<string>OM</string>
+		<key>city</key>
+		<string>Muscat</string>
+		<key>country</key>
+		<string>Oman</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-20.166666</string>
+		<key>longitude</key>
+		<string>57.500000</string>
+		<key>New item - 3</key>
+		<string>16</string>
+		<key>timeZoneName</key>
+		<string>Indian/Mauritius</string>
+		<key>New item - 5</key>
+		<string>MU</string>
+		<key>city</key>
+		<string>Port Louis</string>
+		<key>country</key>
+		<string>Mauritius</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-4.633333</string>
+		<key>longitude</key>
+		<string>55.450000</string>
+		<key>New item - 3</key>
+		<string>16</string>
+		<key>timeZoneName</key>
+		<string>Indian/Mahe</string>
+		<key>New item - 5</key>
+		<string>SC</string>
+		<key>city</key>
+		<string>Victoria</string>
+		<key>country</key>
+		<string>Seychelles</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>34.500000</string>
+		<key>longitude</key>
+		<string>69.199997</string>
+		<key>New item - 3</key>
+		<string>17</string>
+		<key>timeZoneName</key>
+		<string>Asia/Kabul</string>
+		<key>New item - 5</key>
+		<string>AF</string>
+		<key>city</key>
+		<string>Kabul</string>
+		<key>country</key>
+		<string>Afghanistan</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>41.333336</string>
+		<key>longitude</key>
+		<string>69.166664</string>
+		<key>New item - 3</key>
+		<string>18</string>
+		<key>timeZoneName</key>
+		<string>Asia/Tashkent</string>
+		<key>New item - 5</key>
+		<string>UZ</string>
+		<key>city</key>
+		<string>Tashkent</string>
+		<key>country</key>
+		<string>Uzbekistan</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>56.850000</string>
+		<key>longitude</key>
+		<string>60.600000</string>
+		<key>New item - 3</key>
+		<string>18</string>
+		<key>timeZoneName</key>
+		<string>Asia/Yekaterinburg</string>
+		<key>New item - 5</key>
+		<string>RU</string>
+		<key>city</key>
+		<string>Yekaterinburg</string>
+		<key>country</key>
+		<string>Russia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>37.9667</string>
+		<key>longitude</key>
+		<string>58.4000</string>
+		<key>New item - 3</key>
+		<string>18</string>
+		<key>timeZoneName</key>
+		<string>Asia/Ashgabat</string>
+		<key>New item - 5</key>
+		<string>TM</string>
+		<key>city</key>
+		<string>Ashgabat</string>
+		<key>country</key>
+		<string>Turkmenistan</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>33.666668</string>
+		<key>longitude</key>
+		<string>73.166664</string>
+		<key>New item - 3</key>
+		<string>18</string>
+		<key>timeZoneName</key>
+		<string>Asia/Karachi</string>
+		<key>New item - 5</key>
+		<string>PK</string>
+		<key>city</key>
+		<string>Islamabad</string>
+		<key>country</key>
+		<string>Pakistan</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>4.166666</string>
+		<key>longitude</key>
+		<string>73.500000</string>
+		<key>New item - 3</key>
+		<string>18</string>
+		<key>timeZoneName</key>
+		<string>Indian/Maldives</string>
+		<key>New item - 5</key>
+		<string>MV</string>
+		<key>city</key>
+		<string>Male</string>
+		<key>country</key>
+		<string>Maldives</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>18.933334</string>
+		<key>longitude</key>
+		<string>72.849998</string>
+		<key>New item - 3</key>
+		<string>19</string>
+		<key>timeZoneName</key>
+		<string>Asia/Calcutta</string>
+		<key>New item - 5</key>
+		<string>IN</string>
+		<key>city</key>
+		<string>Mumbai</string>
+		<key>country</key>
+		<string>India</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>22.583334</string>
+		<key>longitude</key>
+		<string>88.349998</string>
+		<key>New item - 3</key>
+		<string>19</string>
+		<key>timeZoneName</key>
+		<string>Asia/Calcutta</string>
+		<key>New item - 5</key>
+		<string>IN</string>
+		<key>city</key>
+		<string>Kolkata</string>
+		<key>country</key>
+		<string>India</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>13.133333</string>
+		<key>longitude</key>
+		<string>80.316666</string>
+		<key>New item - 3</key>
+		<string>19</string>
+		<key>timeZoneName</key>
+		<string>Asia/Calcutta</string>
+		<key>New item - 5</key>
+		<string>IN</string>
+		<key>city</key>
+		<string>Chennai</string>
+		<key>country</key>
+		<string>India</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>6.933333</string>
+		<key>longitude</key>
+		<string>79.966667</string>
+		<key>New item - 3</key>
+		<string>19</string>
+		<key>timeZoneName</key>
+		<string>Asia/Colombo</string>
+		<key>New item - 5</key>
+		<string>LK</string>
+		<key>city</key>
+		<string>Colombo</string>
+		<key>country</key>
+		<string>Sri Lanka</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>28.616667</string>
+		<key>longitude</key>
+		<string>77.216667</string>
+		<key>New item - 3</key>
+		<string>19</string>
+		<key>timeZoneName</key>
+		<string>Asia/Calcutta</string>
+		<key>New item - 5</key>
+		<string>IN</string>
+		<key>city</key>
+		<string>New Delhi</string>
+		<key>country</key>
+		<string>India</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>27.716666</string>
+		<key>longitude</key>
+		<string>85.316666</string>
+		<key>New item - 3</key>
+		<string>20</string>
+		<key>timeZoneName</key>
+		<string>Asia/Katmandu</string>
+		<key>New item - 5</key>
+		<string>NP</string>
+		<key>city</key>
+		<string>Katmandu</string>
+		<key>country</key>
+		<string>Nepal</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>23.699999</string>
+		<key>longitude</key>
+		<string>90.366669</string>
+		<key>New item - 3</key>
+		<string>21</string>
+		<key>timeZoneName</key>
+		<string>Asia/Dhaka</string>
+		<key>New item - 5</key>
+		<string>BD</string>
+		<key>city</key>
+		<string>Dhaka</string>
+		<key>country</key>
+		<string>Bangladesh</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>55.033333</string>
+		<key>longitude</key>
+		<string>83.050003</string>
+		<key>New item - 3</key>
+		<string>21</string>
+		<key>timeZoneName</key>
+		<string>Asia/Novosibirsk</string>
+		<key>New item - 5</key>
+		<string>RU</string>
+		<key>city</key>
+		<string>Novosibirsk</string>
+		<key>country</key>
+		<string>Russia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>55.000000</string>
+		<key>longitude</key>
+		<string>73.216667</string>
+		<key>New item - 3</key>
+		<string>21</string>
+		<key>timeZoneName</key>
+		<string>Asia/Omsk</string>
+		<key>New item - 5</key>
+		<string>RU</string>
+		<key>city</key>
+		<string>Omsk</string>
+		<key>country</key>
+		<string>Russia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>16.750000</string>
+		<key>longitude</key>
+		<string>96.333328</string>
+		<key>New item - 3</key>
+		<string>22</string>
+		<key>timeZoneName</key>
+		<string>Asia/Rangoon</string>
+		<key>New item - 5</key>
+		<string>BU</string>
+		<key>city</key>
+		<string>Rangoon</string>
+		<key>country</key>
+		<string>Burma</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-6.133334</string>
+		<key>longitude</key>
+		<string>106.750000</string>
+		<key>New item - 3</key>
+		<string>23</string>
+		<key>timeZoneName</key>
+		<string>Asia/Jakarta</string>
+		<key>New item - 5</key>
+		<string>ID</string>
+		<key>city</key>
+		<string>Jakarta</string>
+		<key>country</key>
+		<string>Indonesia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>13.733334</string>
+		<key>longitude</key>
+		<string>100.500000</string>
+		<key>New item - 3</key>
+		<string>23</string>
+		<key>timeZoneName</key>
+		<string>Asia/Bangkok</string>
+		<key>New item - 5</key>
+		<string>TH</string>
+		<key>city</key>
+		<string>Bangkok</string>
+		<key>country</key>
+		<string>Thailand</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>10.966667</string>
+		<key>longitude</key>
+		<string>106.666664</string>
+		<key>New item - 3</key>
+		<string>23</string>
+		<key>timeZoneName</key>
+		<string>Asia/Saigon</string>
+		<key>New item - 5</key>
+		<string>VN</string>
+		<key>city</key>
+		<string>Thanh Pho Ho Chi Minh</string>
+		<key>country</key>
+		<string>Vietnam</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>56.016666</string>
+		<key>longitude</key>
+		<string>92.833333</string>
+		<key>New item - 3</key>
+		<string>23</string>
+		<key>timeZoneName</key>
+		<string>Asia/Krasnoyarsk</string>
+		<key>New item - 5</key>
+		<string>RU</string>
+		<key>city</key>
+		<string>Krasnoyarsk</string>
+		<key>country</key>
+		<string>Russia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>21.083334</string>
+		<key>longitude</key>
+		<string>105.916672</string>
+		<key>New item - 3</key>
+		<string>23</string>
+		<key>timeZoneName</key>
+		<string>Asia/Saigon</string>
+		<key>New item - 5</key>
+		<string>VN</string>
+		<key>city</key>
+		<string>Hanoi</string>
+		<key>country</key>
+		<string>Vietnam</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>11.549999</string>
+		<key>longitude</key>
+		<string>104.916664</string>
+		<key>New item - 3</key>
+		<string>23</string>
+		<key>timeZoneName</key>
+		<string>Asia/Phnom_Penh</string>
+		<key>New item - 5</key>
+		<string>KH</string>
+		<key>city</key>
+		<string>Phnom Penh</string>
+		<key>country</key>
+		<string>Cambodia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>31.233334</string>
+		<key>longitude</key>
+		<string>121.500000</string>
+		<key>New item - 3</key>
+		<string>24</string>
+		<key>timeZoneName</key>
+		<string>Asia/Shanghai</string>
+		<key>New item - 5</key>
+		<string>CN</string>
+		<key>city</key>
+		<string>Shanghai</string>
+		<key>country</key>
+		<string>China</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>39.916668</string>
+		<key>longitude</key>
+		<string>116.416672</string>
+		<key>New item - 3</key>
+		<string>24</string>
+		<key>timeZoneName</key>
+		<string>Asia/Shanghai</string>
+		<key>New item - 5</key>
+		<string>CN</string>
+		<key>city</key>
+		<string>Beijing</string>
+		<key>country</key>
+		<string>China</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>14.600000</string>
+		<key>longitude</key>
+		<string>120.983337</string>
+		<key>New item - 3</key>
+		<string>24</string>
+		<key>timeZoneName</key>
+		<string>Asia/Manila</string>
+		<key>New item - 5</key>
+		<string>PH</string>
+		<key>city</key>
+		<string>Manila</string>
+		<key>country</key>
+		<string>Philippines</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>22.250000</string>
+		<key>longitude</key>
+		<string>114.166672</string>
+		<key>New item - 3</key>
+		<string>24</string>
+		<key>timeZoneName</key>
+		<string>Asia/Hong_Kong</string>
+		<key>New item - 5</key>
+		<string>HK</string>
+		<key>city</key>
+		<string>Hong Kong</string>
+		<key>country</key>
+		<string>China</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>1.283333</string>
+		<key>longitude</key>
+		<string>103.850006</string>
+		<key>New item - 3</key>
+		<string>24</string>
+		<key>timeZoneName</key>
+		<string>Asia/Singapore</string>
+		<key>New item - 5</key>
+		<string>SG</string>
+		<key>city</key>
+		<string>Singapore</string>
+		<key>country</key>
+		<string>Singapore</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>39.133331</string>
+		<key>longitude</key>
+		<string>117.200005</string>
+		<key>New item - 3</key>
+		<string>24</string>
+		<key>timeZoneName</key>
+		<string>Asia/Shanghai</string>
+		<key>New item - 5</key>
+		<string>CN</string>
+		<key>city</key>
+		<string>Tientsin</string>
+		<key>country</key>
+		<string>China</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>23.083332</string>
+		<key>longitude</key>
+		<string>113.166672</string>
+		<key>New item - 3</key>
+		<string>24</string>
+		<key>timeZoneName</key>
+		<string>Asia/Shanghai</string>
+		<key>New item - 5</key>
+		<string>CN</string>
+		<key>city</key>
+		<string>Canton</string>
+		<key>country</key>
+		<string>China</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>25.066668</string>
+		<key>longitude</key>
+		<string>121.483330</string>
+		<key>New item - 3</key>
+		<string>24</string>
+		<key>timeZoneName</key>
+		<string>Asia/Taipei</string>
+		<key>New item - 5</key>
+		<string>TW</string>
+		<key>city</key>
+		<string>Taipei</string>
+		<key>country</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>3.150000</string>
+		<key>longitude</key>
+		<string>101.683334</string>
+		<key>New item - 3</key>
+		<string>24</string>
+		<key>timeZoneName</key>
+		<string>Asia/Kuala_Lumpur</string>
+		<key>New item - 5</key>
+		<string>MY</string>
+		<key>city</key>
+		<string>Kuala Lumpur</string>
+		<key>country</key>
+		<string>Malaysia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>47.916668</string>
+		<key>longitude</key>
+		<string>106.883339</string>
+		<key>New item - 3</key>
+		<string>24</string>
+		<key>timeZoneName</key>
+		<string>Asia/Ulaanbaatar</string>
+		<key>New item - 5</key>
+		<string>MN</string>
+		<key>city</key>
+		<string>Ulaanbaatar</string>
+		<key>country</key>
+		<string>Mongolia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-31.933334</string>
+		<key>longitude</key>
+		<string>115.833328</string>
+		<key>New item - 3</key>
+		<string>24</string>
+		<key>timeZoneName</key>
+		<string>Australia/Perth</string>
+		<key>New item - 5</key>
+		<string>AU</string>
+		<key>city</key>
+		<string>Perth</string>
+		<key>country</key>
+		<string>Australia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>35.700001</string>
+		<key>longitude</key>
+		<string>139.766678</string>
+		<key>New item - 3</key>
+		<string>25</string>
+		<key>timeZoneName</key>
+		<string>Asia/Tokyo</string>
+		<key>New item - 5</key>
+		<string>JP</string>
+		<key>city</key>
+		<string>Tokyo</string>
+		<key>country</key>
+		<string>Japan</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>37.549999</string>
+		<key>longitude</key>
+		<string>126.966667</string>
+		<key>New item - 3</key>
+		<string>25</string>
+		<key>timeZoneName</key>
+		<string>Asia/Seoul</string>
+		<key>New item - 5</key>
+		<string>KR</string>
+		<key>city</key>
+		<string>Seoul</string>
+		<key>country</key>
+		<string>Korea</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>34.666668</string>
+		<key>longitude</key>
+		<string>135.500000</string>
+		<key>New item - 3</key>
+		<string>25</string>
+		<key>timeZoneName</key>
+		<string>Asia/Tokyo</string>
+		<key>New item - 5</key>
+		<string>JP</string>
+		<key>city</key>
+		<string>Osaka</string>
+		<key>country</key>
+		<string>Japan</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>39.000000</string>
+		<key>longitude</key>
+		<string>125.500000</string>
+		<key>New item - 3</key>
+		<string>25</string>
+		<key>timeZoneName</key>
+		<string>Asia/Pyongyang</string>
+		<key>New item - 5</key>
+		<string>KR</string>
+		<key>city</key>
+		<string>Pyongyang</string>
+		<key>country</key>
+		<string>North Korea</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>62.000000</string>
+		<key>longitude</key>
+		<string>129.666666</string>
+		<key>New item - 3</key>
+		<string>25</string>
+		<key>timeZoneName</key>
+		<string>Asia/Yakutsk</string>
+		<key>New item - 5</key>
+		<string>RU</string>
+		<key>city</key>
+		<string>Yakutsk</string>
+		<key>country</key>
+		<string>Russia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-34.866669</string>
+		<key>longitude</key>
+		<string>138.500000</string>
+		<key>New item - 3</key>
+		<string>26</string>
+		<key>timeZoneName</key>
+		<string>Australia/Adelaide</string>
+		<key>New item - 5</key>
+		<string>AU</string>
+		<key>city</key>
+		<string>Adelaide</string>
+		<key>country</key>
+		<string>Australia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-12.466666</string>
+		<key>longitude</key>
+		<string>130.850000</string>
+		<key>New item - 3</key>
+		<string>26</string>
+		<key>timeZoneName</key>
+		<string>Australia/Darwin</string>
+		<key>New item - 5</key>
+		<string>AU</string>
+		<key>city</key>
+		<string>Darwin</string>
+		<key>country</key>
+		<string>Australia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-33.866665</string>
+		<key>longitude</key>
+		<string>151.216675</string>
+		<key>New item - 3</key>
+		<string>27</string>
+		<key>timeZoneName</key>
+		<string>Australia/Sydney</string>
+		<key>New item - 5</key>
+		<string>AU</string>
+		<key>city</key>
+		<string>Sydney</string>
+		<key>country</key>
+		<string>Australia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-37.833332</string>
+		<key>longitude</key>
+		<string>145.000000</string>
+		<key>New item - 3</key>
+		<string>27</string>
+		<key>timeZoneName</key>
+		<string>Australia/Melbourne</string>
+		<key>New item - 5</key>
+		<string>AU</string>
+		<key>city</key>
+		<string>Melbourne</string>
+		<key>country</key>
+		<string>Australia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-27.483333</string>
+		<key>longitude</key>
+		<string>153.133333</string>
+		<key>New item - 3</key>
+		<string>27</string>
+		<key>timeZoneName</key>
+		<string>Australia/Brisbane</string>
+		<key>New item - 5</key>
+		<string>AU</string>
+		<key>city</key>
+		<string>Brisbane</string>
+		<key>country</key>
+		<string>Australia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>43.116666</string>
+		<key>longitude</key>
+		<string>131.916666</string>
+		<key>New item - 3</key>
+		<string>27</string>
+		<key>timeZoneName</key>
+		<string>Asia/Vladivostok</string>
+		<key>New item - 5</key>
+		<string>RU</string>
+		<key>city</key>
+		<string>Vladivostok</string>
+		<key>country</key>
+		<string>Russia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-35.250000</string>
+		<key>longitude</key>
+		<string>149.133331</string>
+		<key>New item - 3</key>
+		<string>27</string>
+		<key>timeZoneName</key>
+		<string>Australia/Canberra</string>
+		<key>New item - 5</key>
+		<string>AU</string>
+		<key>city</key>
+		<string>Canberra</string>
+		<key>country</key>
+		<string>Australia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>13.450000</string>
+		<key>longitude</key>
+		<string>144.750000</string>
+		<key>New item - 3</key>
+		<string>27</string>
+		<key>timeZoneName</key>
+		<string>Pacific/Guam</string>
+		<key>New item - 5</key>
+		<string>GU</string>
+		<key>city</key>
+		<string>Guam</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-42.883333</string>
+		<key>longitude</key>
+		<string>147.316666</string>
+		<key>New item - 3</key>
+		<string>27</string>
+		<key>timeZoneName</key>
+		<string>Australia/Hobart</string>
+		<key>New item - 5</key>
+		<string>AU</string>
+		<key>city</key>
+		<string>Hobart</string>
+		<key>country</key>
+		<string>Australia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>59.566666</string>
+		<key>longitude</key>
+		<string>150.800000</string>
+		<key>New item - 3</key>
+		<string>28</string>
+		<key>timeZoneName</key>
+		<string>Asia/Magadan</string>
+		<key>New item - 5</key>
+		<string>RU</string>
+		<key>city</key>
+		<string>Magadan</string>
+		<key>country</key>
+		<string>Russia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-22.267</string>
+		<key>longitude</key>
+		<string>166.45</string>
+		<key>New item - 3</key>
+		<string>28</string>
+		<key>timeZoneName</key>
+		<string>Pacific/Noumea</string>
+		<key>New item - 5</key>
+		<string>NC</string>
+		<key>city</key>
+		<string>Noumea</string>
+		<key>country</key>
+		<string>New Caledonia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-41.283333</string>
+		<key>longitude</key>
+		<string>174.783325</string>
+		<key>New item - 3</key>
+		<string>29</string>
+		<key>timeZoneName</key>
+		<string>Pacific/Auckland</string>
+		<key>New item - 5</key>
+		<string>NZ</string>
+		<key>city</key>
+		<string>Wellington</string>
+		<key>country</key>
+		<string>New Zealand</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>64.750000</string>
+		<key>longitude</key>
+		<string>177.483333</string>
+		<key>New item - 3</key>
+		<string>29</string>
+		<key>timeZoneName</key>
+		<string>Asia/Anadyr</string>
+		<key>New item - 5</key>
+		<string>RU</string>
+		<key>city</key>
+		<string>Anadyr</string>
+		<key>country</key>
+		<string>Russia</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>-14.266666</string>
+		<key>longitude</key>
+		<string>-170.700000</string>
+		<key>New item - 3</key>
+		<string>30</string>
+		<key>timeZoneName</key>
+		<string>Pacific/Pago_Pago</string>
+		<key>New item - 5</key>
+		<string>WS</string>
+		<key>city</key>
+		<string>Pago Pago</string>
+		<key>country</key>
+		<string>Samoa</string>
+	</dict>
+	<dict>
+		<key>latitude</key>
+		<string>51.866666</string>
+		<key>longitude</key>
+		<string>-176.650000</string>
+		<key>New item - 3</key>
+		<string>30</string>
+		<key>timeZoneName</key>
+		<string>America/Adak</string>
+		<key>New item - 5</key>
+		<string>US</string>
+		<key>city</key>
+		<string>Adak</string>
+		<key>country</key>
+		<string>U.S.A.</string>
+	</dict>
+</array>
+</plist>
