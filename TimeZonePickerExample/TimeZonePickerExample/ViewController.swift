@@ -12,18 +12,17 @@ import TimeZonePicker
 class ViewController: UIViewController {
 
     @IBOutlet weak var timeZoneLabel: UILabel!
-    
+
     private var selectedTiemZone: TimeZoneLocation?
-    
+
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
-    
+
     override func viewDidAppear(_ animated: Bool) {
-        
+
         super.viewDidAppear(animated)
-        
     }
 
     override func didReceiveMemoryWarning() {
@@ -32,31 +31,34 @@ class ViewController: UIViewController {
     }
 
     @IBAction func timeZonePickerPressed(_ sender: Any) {
-        
-        let timeZonePicker = try! TimeZonePickerViewController(initialSearchText: self.selectedTiemZone?.cityName, delegate: self)
-        
+
+        guard let timeZonePicker = try? TimeZonePickerViewController(initialSearchText: self.selectedTiemZone?.cityName,
+                                                                     delegate: self) else {
+            return
+        }
+
         self.present(timeZonePicker, animated: true, completion: nil)
     }
-    
+
 }
 
 extension ViewController: TimeZonePickerViewControllerDelegate {
-    
+
     func timeZonePickerViewControllerDidCancel(viewController: TimeZonePickerTableViewController) {
-     
-        
+
         self.dismiss(animated: true, completion: nil)
     }
-    
-    func timeZonePickerViewController(viewController: TimeZonePickerTableViewController, didSelectTimeZone timeZone: TimeZoneLocation) {
-        
+
+    func timeZonePickerViewController(viewController: TimeZonePickerTableViewController, didSelectTimeZone
+        timeZone: TimeZoneLocation) {
+
         self.timeZoneLabel.text = timeZone.description
         self.selectedTiemZone = timeZone
-        
+
         self.dismiss(animated: true) {
-            
+
             print(timeZone)
-            
+
         }
     }
 }
