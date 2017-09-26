@@ -23,7 +23,7 @@ public class TimeZonePickerTableViewController: UIViewController {
     public init(initialSearchText: String? = nil, delegate: TimeZonePickerViewControllerDelegate? = nil) throws {
 
         self.initialSearchText = initialSearchText
-        self.dataSource = try TimeZoneDataSource()
+        self.dataSource = try TimeZoneDataSource(initialSearchText: initialSearchText)
 
         if let initialSourceText = initialSearchText {
 
@@ -66,8 +66,12 @@ public class TimeZonePickerTableViewController: UIViewController {
         self.tableView.dataSource = self
         self.searchBar.delegate = self
         self.searchBar.text = self.initialSearchText
-        self.searchBar.becomeFirstResponder()
         self.dataSource.delegate = self
+    }
+
+    public override func viewDidAppear(_ animated: Bool) {
+
+        self.searchBar.becomeFirstResponder()
     }
 
     override public func didReceiveMemoryWarning() {
