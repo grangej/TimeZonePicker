@@ -75,12 +75,32 @@ public class TimeZoneDataSource {
 
     }
 
+
+    /// Return the first TimeZoneLocation that matches the city and country
+    ///
+    /// - Parameters:
+    ///   - city: The City to search for
+    ///   - country: The Country to search for
+    /// - Returns: TimeZoneLocation that matches the city and state or nil if not found
     public func timeZone(city: String, country: String) -> TimeZoneLocation? {
 
-        return self.timeZones.filter({ (timeZoneLocation) -> Bool in
+        return self.timeZones.first(where: { (timeZoneLocation) -> Bool in
 
             return timeZoneLocation.city.lowercased() == city.lowercased() &&
                 timeZoneLocation.country.lowercased() == country.lowercased()
-        }).first
+        })
+    }
+
+
+    /// Return the first TimeZoneLocation that matches the TimeZoneName
+    ///
+    /// - Parameter timeZoneName: The name of the timeZone (ie. "UTC")
+    /// - Returns: TimeZoneLocation that matches the time zone name or nil if not found
+    public func timeZone(timeZoneName: String) -> TimeZoneLocation? {
+
+        return self.timeZones.first(where: { (timeZoneLocation) -> Bool in
+
+            return timeZoneLocation.timeZoneName.lowercased() == timeZoneName.lowercased()
+        })
     }
 }
