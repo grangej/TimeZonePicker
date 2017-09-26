@@ -8,7 +8,7 @@
 
 import Foundation
 
-public struct TimeZoneLocation: Decodable, CustomStringConvertible {
+public struct TimeZoneLocation: Codable, CustomStringConvertible {
 
     /// -90.0 to 90.0 (in decimal format)
     public let latitude: String
