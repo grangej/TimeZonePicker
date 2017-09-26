@@ -48,11 +48,11 @@ public class TimeZoneDataSource {
 
         var timeZones = try decoder.decode([TimeZoneLocation].self, from: data)
 
+        self.timeZones = timeZones
+
         DispatchQueue(label: "init timeZones").async {
 
             timeZones.sort()
-
-            self.timeZones = timeZones
 
             if let initialSearchText = initialSearchText {
 
@@ -73,5 +73,14 @@ public class TimeZoneDataSource {
             return timeZoneCity.contains(string: searchString)
         })
 
+    }
+
+    public func timeZone(city: String, country: String) -> TimeZoneLocation? {
+
+        return self.timeZones.filter({ (timeZoneLocation) -> Bool in
+
+            return timeZoneLocation.city.lowercased() == city.lowercased() &&
+                timeZoneLocation.country.lowercased() == country.lowercased()
+        }).first
     }
 }

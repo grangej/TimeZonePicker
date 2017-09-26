@@ -18,6 +18,16 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+
+        let timeZoneDataSource = try? TimeZoneDataSource(initialSearchText: nil)
+
+        if let timeZoneLocation = timeZoneDataSource?.timeZone(city: "Tokyo", country: "Japan") {
+
+            print(timeZoneLocation.cityName)
+        }
+
+
+
     }
 
     override func viewDidAppear(_ animated: Bool) {
