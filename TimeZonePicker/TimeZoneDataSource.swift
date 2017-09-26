@@ -25,13 +25,17 @@ public class TimeZoneDataSource {
 
         didSet {
 
-            self.delegate?.timeZoneDataSourceDidUpdate(timeZoneDataSource: self)
+            DispatchQueue.main.async {
+
+                self.delegate?.timeZoneDataSourceDidUpdate(timeZoneDataSource: self)
+
+            }
         }
     }
 
     public weak var delegate: TimeZoneDataSourceDelegate?
 
-    public init() throws {
+    public init(initialSearchText: String?) throws {
 
         let bundle = Bundle(for: TimeZoneDataSource.self)
 
@@ -48,9 +52,11 @@ public class TimeZoneDataSource {
 
             timeZones.sort()
 
-            DispatchQueue.main.async {
+            self.timeZones = timeZones
 
-                self.timeZones = timeZones
+            if let initialSearchText = initialSearchText {
+
+                self.filter(searchString: initialSearchText)
             }
         }
     }
