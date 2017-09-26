@@ -15,7 +15,7 @@ public struct TimeZoneLocation: Decodable, CustomStringConvertible {
     /// -180.0 to 180.0 (in decimal format)
     public let longitude: String
     /// Unlocalized version of City
-    private let city: String
+    internal let city: String
     /// Localized city name
     public var cityName: String {
 
@@ -24,7 +24,7 @@ public struct TimeZoneLocation: Decodable, CustomStringConvertible {
         return bundle.localizedString(forKey: self.city, value: nil, table: "Localizable_Cities")
     }
     /// Unlocalized version of Country
-    private let country: String
+    internal let country: String
     /// Localized country name
     public var countryName: String {
         let bundle = Bundle(for: TimeZoneDataSource.self)

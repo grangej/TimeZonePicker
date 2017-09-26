@@ -48,11 +48,11 @@ public class TimeZoneDataSource {
 
         var timeZones = try decoder.decode([TimeZoneLocation].self, from: data)
 
+        self.timeZones = timeZones
+
         DispatchQueue(label: "init timeZones").async {
 
             timeZones.sort()
-
-            self.timeZones = timeZones
 
             if let initialSearchText = initialSearchText {
 
@@ -73,5 +73,34 @@ public class TimeZoneDataSource {
             return timeZoneCity.contains(string: searchString)
         })
 
+    }
+
+
+    /// Return the first TimeZoneLocation that matches the city and country
+    ///
+    /// - Parameters:
+    ///   - city: The City to search for
+    ///   - country: The Country to search for
+    /// - Returns: TimeZoneLocation that matches the city and state or nil if not found
+    public func timeZone(city: String, country: String) -> TimeZoneLocation? {
+
+        return self.timeZones.first(where: { (timeZoneLocation) -> Bool in
+
+            return timeZoneLocation.city.lowercased() == city.lowercased() &&
+                timeZoneLocation.country.lowercased() == country.lowercased()
+        })
+    }
+
+
+    /// Return the first TimeZoneLocation that matches the TimeZoneName
+    ///
+    /// - Parameter timeZoneName: The name of the timeZone (ie. "UTC")
+    /// - Returns: TimeZoneLocation that matches the time zone name or nil if not found
+    public func timeZone(timeZoneName: String) -> TimeZoneLocation? {
+
+        return self.timeZones.first(where: { (timeZoneLocation) -> Bool in
+
+            return timeZoneLocation.timeZoneName.lowercased() == timeZoneName.lowercased()
+        })
     }
 }
