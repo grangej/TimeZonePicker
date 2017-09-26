@@ -75,7 +75,6 @@ public class TimeZoneDataSource {
 
     }
 
-
     /// Return the first TimeZoneLocation that matches the city and country
     ///
     /// - Parameters:
@@ -90,7 +89,6 @@ public class TimeZoneDataSource {
                 timeZoneLocation.country.lowercased() == country.lowercased()
         })
     }
-
 
     /// Return the first TimeZoneLocation that matches the TimeZoneName
     ///

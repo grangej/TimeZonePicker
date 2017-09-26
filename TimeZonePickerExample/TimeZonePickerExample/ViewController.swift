@@ -25,9 +25,6 @@ class ViewController: UIViewController {
 
             print(timeZoneLocation.cityName)
         }
-
-
-
     }
 
     override func viewDidAppear(_ animated: Bool) {
