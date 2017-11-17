@@ -48,7 +48,7 @@ To add TimeZonePicker to your project using CocoaPods, specify it your
 platform :ios, '11.0'
 
 target 'TargetName' do
-	pod 'TimeZonePicker', '~> 1.1.0'
+	pod 'TimeZonePicker-JAApps', '~> 1.1.0'
 end
 ```
 
