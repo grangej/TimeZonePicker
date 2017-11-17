@@ -36,6 +36,27 @@ And run:
 ```console
 carthage update
 ```
+### CocoaPods
+
+> CocoaPods 1.1.0+ is required to build TimeZonePicker 
+
+To add TimeZonePicker to your project using CocoaPods, specify it your 
+[`Podfile`](https://guides.cocoapods.org/using/the-podfile.html)
+
+```ruby
+
+platform :ios, '11.0'
+
+target 'TargetName' do
+	pod 'TimeZonePicker', '~> 1.1.0'
+end
+```
+
+And run:
+
+```console
+pod install
+```
 
 ## Features
 
@@ -44,7 +65,7 @@ Currently `TimeZonePicker` has the following features:
 - [x] `DataSource for use in custom ViewController`
 - [x] `ViewController for use directly in your app`
 - [x] `Fully localized in Japanese`
-- [ ] `Localization in other languages`
+- [x] `Localization in other languages`
 - [ ] `Fully unit tested`
 
 ## Author
