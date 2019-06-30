@@ -67,6 +67,7 @@ public class TimeZonePickerTableViewController: UIViewController {
         self.searchBar.delegate = self
         self.searchBar.text = self.initialSearchText
         self.dataSource.delegate = self
+        self.tableView.tableFooterView = UIView(frame: CGRect.zero)
     }
 
     public override func viewDidAppear(_ animated: Bool) {
