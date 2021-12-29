@@ -7,21 +7,22 @@
 //
 
 import Foundation
+import Combine
 
-public protocol TimeZoneDataSourceDelegate: class {
+public protocol TimeZoneDataSourceDelegate: AnyObject {
 
     func timeZoneDataSourceDidUpdate(timeZoneDataSource: TimeZoneDataSource)
 }
 
 /// Initilizes the timezones and supports filtering
 /// note: The filterTimeZones will be blank until valid filter search text is applied
-public class TimeZoneDataSource {
+public class TimeZoneDataSource: ObservableObject {
 
     /// All timeZones
     public var timeZones: [TimeZoneLocation] = [TimeZoneLocation]()
 
     /// Filtered list of timeZones (use filter(searchString: "search text") to apply filter
-    public var filteredTimeZones: [TimeZoneLocation] = [TimeZoneLocation]() {
+    @Published public var filteredTimeZones: [TimeZoneLocation] = [TimeZoneLocation]() {
 
         didSet {
 
@@ -32,13 +33,18 @@ public class TimeZoneDataSource {
             }
         }
     }
+    
+    @Published public var searchText: String = ""
 
     public weak var delegate: TimeZoneDataSourceDelegate?
-
+    private var cancelBag = Set<AnyCancellable>()
+    
     public init(initialSearchText: String?) throws {
 
-        let bundle = Bundle(for: TimeZoneDataSource.self)
-
+        self.searchText = initialSearchText ?? ""
+        
+//        let bundle = Bundle(for: TimeZoneDataSource.self)
+        let bundle = Bundle.module
         let path = bundle.path(forResource: "all_cities_adj", ofType: "plist")!
 
         let url = URL(fileURLWithPath: path)
@@ -59,6 +65,12 @@ public class TimeZoneDataSource {
                 self.filter(searchString: initialSearchText)
             }
         }
+        
+        
+        $searchText.removeDuplicates().sink { [weak self] searchText in
+            
+            self?.filter(searchString: searchText)
+        }.store(in: &cancelBag)
     }
 
     /// Search all timeZones for a string in city or country
@@ -66,7 +78,12 @@ public class TimeZoneDataSource {
     //  (i.e. search text is searched against a localized city / country AND english city / country
     ///
     /// - Parameter searchString: Search text to search in city / country
-    public func filter(searchString: String) {
+    public func filter(searchString: String?) {
+
+        guard let searchString = searchString, !searchString.isEmpty else {
+            self.filteredTimeZones = timeZones
+            return
+        }
 
         self.filteredTimeZones = self.timeZones.filter({ (timeZoneCity) -> Bool in
 

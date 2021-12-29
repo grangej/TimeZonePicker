@@ -8,8 +8,10 @@
 
 import Foundation
 
-public struct TimeZoneLocation: Codable, CustomStringConvertible {
+public struct TimeZoneLocation: Codable, CustomStringConvertible, Identifiable {
 
+    public var id: String { return "\(city)-\(country)" }
+    
     /// -90.0 to 90.0 (in decimal format)
     public let latitude: String
     /// -180.0 to 180.0 (in decimal format)
@@ -19,7 +21,7 @@ public struct TimeZoneLocation: Codable, CustomStringConvertible {
     /// Localized city name
     public var cityName: String {
 
-        let bundle = Bundle(for: TimeZoneDataSource.self)
+        let bundle = Bundle.module
 
         return bundle.localizedString(forKey: self.city, value: nil, table: "Localizable_Cities")
     }
@@ -27,7 +29,7 @@ public struct TimeZoneLocation: Codable, CustomStringConvertible {
     internal let country: String
     /// Localized country name
     public var countryName: String {
-        let bundle = Bundle(for: TimeZoneDataSource.self)
+        let bundle = Bundle.module
 
         return bundle.localizedString(forKey: self.country, value: nil, table: "Localizable_Countries")
     }

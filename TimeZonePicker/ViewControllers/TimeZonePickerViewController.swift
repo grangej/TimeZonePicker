@@ -8,7 +8,7 @@
 
 import UIKit
 
-public protocol TimeZonePickerViewControllerDelegate: class {
+public protocol TimeZonePickerViewControllerDelegate: AnyObject {
 
     func timeZonePickerViewControllerDidCancel(viewController: TimeZonePickerTableViewController)
     func timeZonePickerViewController(viewController: TimeZonePickerTableViewController,
