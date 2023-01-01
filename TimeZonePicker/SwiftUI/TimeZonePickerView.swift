@@ -13,7 +13,6 @@ public struct TimeZonePickerView: View {
     
     private var timeZonePicked: TimeZonePickerCallback?
     @StateObject private var dataSource: TimeZoneDataSource
-    @State private var searchText: String = ""
 
     public init(initialSearchText: String?, timeZonePicked: @escaping TimeZonePickerCallback) throws {
         
@@ -31,7 +30,7 @@ public struct TimeZonePickerView: View {
                     }
                 }
             }.navigationTitle(String(localized: "Time Zone", table: nil, bundle: .module))
-            .searchable(text: $searchText)
+                .searchable(text: $dataSource.searchText)
         }
 
     }

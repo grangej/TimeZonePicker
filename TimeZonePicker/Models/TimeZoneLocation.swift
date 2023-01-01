@@ -8,7 +8,7 @@
 
 import Foundation
 
-public struct TimeZoneLocation: Codable, CustomStringConvertible, Identifiable {
+public struct TimeZoneLocation: Codable, CustomStringConvertible, Identifiable, Hashable {
 
     public var id: String { return "\(city)-\(country)" }
     
@@ -17,7 +17,7 @@ public struct TimeZoneLocation: Codable, CustomStringConvertible, Identifiable {
     /// -180.0 to 180.0 (in decimal format)
     public let longitude: String
     /// Unlocalized version of City
-    internal let city: String
+    public let city: String
     /// Localized city name
     public var cityName: String {
 
@@ -26,7 +26,7 @@ public struct TimeZoneLocation: Codable, CustomStringConvertible, Identifiable {
         return bundle.localizedString(forKey: self.city, value: nil, table: "Localizable_Cities")
     }
     /// Unlocalized version of Country
-    internal let country: String
+    public let country: String
     /// Localized country name
     public var countryName: String {
         let bundle = Bundle.module
@@ -87,5 +87,17 @@ extension TimeZoneLocation: Equatable, Comparable {
 
     public static func>(lhs: TimeZoneLocation, rhs: TimeZoneLocation) -> Bool {
         return lhs.cityName > rhs.cityName
+    }
+}
+
+
+extension TimeZoneLocation {
+    
+    public init(city: String, country: String, latitude: String, longitude: String, timeZoneName: String) {
+        self.city = city
+        self.country = country
+        self.latitude = latitude
+        self.longitude = longitude
+        self.timeZoneName = timeZoneName
     }
 }

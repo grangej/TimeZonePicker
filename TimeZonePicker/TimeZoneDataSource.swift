@@ -43,7 +43,6 @@ public class TimeZoneDataSource: ObservableObject {
 
         self.searchText = initialSearchText ?? ""
         
-//        let bundle = Bundle(for: TimeZoneDataSource.self)
         let bundle = Bundle.module
         let path = bundle.path(forResource: "all_cities_adj", ofType: "plist")!
 
@@ -80,15 +79,25 @@ public class TimeZoneDataSource: ObservableObject {
     /// - Parameter searchString: Search text to search in city / country
     public func filter(searchString: String?) {
 
+        defer {
+            DispatchQueue.main.async {
+                self.objectWillChange.send()
+            }
+        }
+        
         guard let searchString = searchString, !searchString.isEmpty else {
             self.filteredTimeZones = timeZones
             return
         }
 
-        self.filteredTimeZones = self.timeZones.filter({ (timeZoneCity) -> Bool in
+        let timeZones = self.timeZones.filter({ (timeZoneCity) -> Bool in
 
             return timeZoneCity.contains(string: searchString)
         })
+        
+        DispatchQueue.main.async {
+            self.filteredTimeZones = timeZones
+        }
 
     }
 
